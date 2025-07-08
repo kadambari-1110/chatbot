@@ -1,0 +1,372 @@
+2025-07-08 06:37:40 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:37:42 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:38:46 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:39:08 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:39:09 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:39:09 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:39:10 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:39:13 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:39:42 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:39:43 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:39:43 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:39:46 - Undefined constant "Opencart\Install\Controller\Startup\DB_DRIVER": in /opt/lampp/htdocs/opencart/install/controller/startup/database.php on line 31
+2025-07-08 06:43:46 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /opt/lampp/htdocs/opencart/system/library/db/mysqli.php on line 29
+2025-07-08 06:43:46 - mysqli object is already closed: in /opt/lampp/htdocs/opencart/system/library/db/mysqli.php on line 32
+2025-07-08 06:45:37 - PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'root'@'localhost' in /opt/lampp/htdocs/opencart/system/library/db/mysqli.php on line 29
+2025-07-08 06:45:37 - mysqli object is already closed: in /opt/lampp/htdocs/opencart/system/library/db/mysqli.php on line 32
+2025-07-08 06:48:00 - PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'root'@'localhost' in /opt/lampp/htdocs/opencart/system/library/db/mysqli.php on line 29
+2025-07-08 06:48:00 - mysqli object is already closed: in /opt/lampp/htdocs/opencart/system/library/db/mysqli.php on line 32
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:20:47 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:22:20 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  mkdir(): No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:26:21 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:29:43 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:29:43 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:29:43 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:29:43 - PHP Warning:  mkdir(): Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 47
+2025-07-08 07:29:43 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: No such file or directory in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:30:48 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:30:48 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:30:48 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:48 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:30:49 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:30:49 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:30:49 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:30:49 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:32:24 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:32:24 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:32:24 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:24 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:32:27 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:32:27 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:32:27 - PHP Warning:  imagejpeg(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/system/library/image.php on line 145
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56
+2025-07-08 07:32:27 - PHP Warning:  copy(/opt/lampp/htdocs/opencart/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: Permission denied in /opt/lampp/htdocs/opencart/catalog/model/tool/image.php on line 56

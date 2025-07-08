@@ -1,0 +1,192 @@
+</main>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3">
+        <h5>{{ text_information }}</h5>
+        <ul class="list-unstyled">
+          {% for information in informations %}
+            <li><a href="{{ information.href }}">{{ information.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <h5>{{ text_service }}</h5>
+        <ul class="list-unstyled">
+          <li><a href="{{ contact }}">{{ text_contact }}</a></li>
+          <li><a href="{{ return }}">{{ text_return }}</a></li>
+          {% if gdpr %}
+            <li><a href="{{ gdpr }}">{{ text_gdpr }}</a></li>
+          {% endif %}
+          <li><a href="{{ sitemap }}">{{ text_sitemap }}</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <h5>{{ text_extra }}</h5>
+        <ul class="list-unstyled">
+          <li><a href="{{ manufacturer }}">{{ text_manufacturer }}</a></li>
+          <li><a href="{{ voucher }}">{{ text_voucher }}</a></li>
+          {% if affiliate %}
+            <li><a href="{{ affiliate }}">{{ text_affiliate }}</a></li>
+          {% endif %}
+          <li><a href="{{ special }}">{{ text_special }}</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <h5>{{ text_account }}</h5>
+        <ul class="list-unstyled">
+          <li><a href="{{ account }}">{{ text_account }}</a></li>
+          <li><a href="{{ order }}">{{ text_order }}</a></li>
+          <li><a href="{{ wishlist }}">{{ text_wishlist }}</a></li>
+          <li><a href="{{ newsletter }}">{{ text_newsletter }}</a></li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+    <p>{{ powered }}</p>
+    <!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+  </div>
+</footer>
+{{ cookie }}
+<script src="{{ bootstrap }}" type="text/javascript"></script>
+{% for script in scripts %}
+  <script src="{{ script.href }}" type="text/javascript"></script>
+{% endfor %}
+
+<!-- Chatbot Floating Button and Widget -->
+<style>
+#chatbot-fab {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  width: 64px;
+  height: 64px;
+  background: #007bff;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  cursor: pointer;
+  z-index: 9999;
+  transition: background 0.2s;
+}
+#chatbot-fab:hover {
+  background: #0056b3;
+}
+#chatbot-container {
+  position: fixed;
+  bottom: 110px;
+  right: 32px;
+  width: 320px;
+  max-width: 90vw;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+  display: none;
+  flex-direction: column;
+  z-index: 10000;
+  overflow: hidden;
+}
+#chatbot-header {
+  background: #007bff;
+  color: #fff;
+  padding: 12px 16px;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#chatbot-close {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+#chat-log {
+  padding: 12px;
+  height: 200px;
+  overflow-y: auto;
+  background: #f8f9fa;
+  font-size: 0.95rem;
+  display: flex;
+  flex-direction: column;
+}
+#chat-input {
+  width: 100%;
+  border: none;
+  border-top: 1px solid #eee;
+  padding: 10px;
+  resize: none;
+  font-size: 1rem;
+  outline: none;
+}
+#chatbot-send {
+  width: 100%;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 0 0 16px 16px;
+}
+.chat-bubble {
+  margin: 8px 0;
+  padding: 10px 14px;
+  border-radius: 18px;
+  max-width: 80%;
+  display: inline-block;
+  clear: both;
+  word-break: break-word;
+  font-size: 1rem;
+}
+.chat-bubble.user {
+  background: #007bff;
+  color: #fff;
+  margin-left: auto;
+  text-align: right;
+  border-bottom-right-radius: 4px;
+}
+.chat-bubble.bot {
+  background: #f1f1f1;
+  color: #222;
+  margin-right: auto;
+  text-align: left;
+  border-bottom-left-radius: 4px;
+}
+</style>
+<div id="chatbot-fab" onclick="toggleChatbot()">🤖</div>
+<div id="chatbot-container">
+  <div id="chatbot-header">AI Assistant <button id="chatbot-close" onclick="toggleChatbot()">&times;</button></div>
+  <div id="chat-log"></div>
+  <textarea id="chat-input" placeholder="Ask about products..."></textarea>
+  <button id="chatbot-send" onclick="sendChat()">Send</button>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  window.toggleChatbot = function() {
+    var chat = document.getElementById('chatbot-container');
+    chat.style.display = (chat.style.display === 'flex') ? 'none' : 'flex';
+  }
+
+  // Enter key support for sending chat
+  var chatInput = document.getElementById('chat-input');
+  if (chatInput) {
+    chatInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        sendChat();
+      }
+    });
+  }
+});
+</script>
+<!-- End Chatbot Widget -->
+</body></html>
